@@ -8,9 +8,31 @@ I have also started my Masters degree in Computer Science & Artifical Intelligen
 
 ## Skills:
 
-Programming Languages: JavaScript, TypeScript, Python, Java
+### Programming Languages: 
+- JavaScript/TypeScript
+- Python
+- Java
+- SQL
+- PHP
+- Rust
+- Lua/C#/GDScript (for gamedev)
 
-Areas of Interest & Proficiency: Web Development, Bespoke Software Development, Software Architecture, Machine Learning, Deep Learning, Blockchain, Cryptocurrencies, Web3
+### Framework/Libraries
+- React
+- Next(🔺)/Gatsby
+- Node/Express
+- Svelte
+- Laravel
+- Django
+
+### Areas of Interest & Proficiency: 
+- Web Development
+- Bespoke Software Development 
+- Software Architecture 
+- Machine Learning, Deep Learning, AI
+- Blockchain
+- Cryptocurrencies
+- Web3
 
 
 Currently looking for open-source projects where I can help contribute!
